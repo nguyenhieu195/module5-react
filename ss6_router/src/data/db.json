@@ -4,6 +4,9 @@
       "id": 1,
       "name": "Hiếu",
       "gender": true,
+      "role": "admin",
+      "username": "hieu01",
+      "password": "hieu123",
       "class": {
         "id": 1,
         "name": "m1"
@@ -16,6 +19,9 @@
       "id": 2,
       "name": "Hà",
       "gender": false,
+      "role": "user",
+      "username": "ha02",
+      "password": "ha1234",
       "class": {
         "id": 2,
         "name": "m2"
@@ -28,6 +34,9 @@
       "id": 3,
       "name": "Minh",
       "gender": true,
+      "role": "user",
+      "username": "minh03",
+      "password": "minh456",
       "class": {
         "id": 1,
         "name": "m1"
@@ -40,6 +49,9 @@
       "id": 4,
       "name": "Lan",
       "gender": false,
+      "role": "user",
+      "username": "lan04",
+      "password": "lan7890",
       "class": {
         "id": 3,
         "name": "m3"
@@ -52,6 +64,9 @@
       "id": 5,
       "name": "Tuấn",
       "gender": true,
+      "role": "user",
+      "username": "tuan05",
+      "password": "tuan567",
       "class": {
         "id": 2,
         "name": "m2"
@@ -64,6 +79,9 @@
       "id": 100,
       "name": "Hieu Nguyen",
       "gender": false,
+      "role": "user",
+      "username": "hieu100",
+      "password": "hieu100",
       "class": {
         "id": 3,
         "name": "m3"
@@ -85,6 +103,44 @@
     {
       "id": 3,
       "name": "m3"
+    }
+  ],
+  "accounts": [
+    {
+      "id": 1,
+      "username": "hieu01",
+      "password": "hieu123",
+      "role": "ADMIN"
+    },
+    {
+      "id": 2,
+      "username": "ha02",
+      "password": "ha1234",
+      "role": "USER"
+    },
+    {
+      "id": 3,
+      "username": "minh03",
+      "password": "minh456",
+      "role": "USER"
+    },
+    {
+      "id": 4,
+      "username": "lan04",
+      "password": "lan7890",
+      "role": "USER"
+    },
+    {
+      "id": 5,
+      "username": "tuan05",
+      "password": "tuan567",
+      "role": "USER"
+    },
+    {
+      "id": 100,
+      "username": "hieu100",
+      "password": "hieu100",
+      "role": "USER"
     }
   ]
 }
