@@ -1,0 +1,52 @@
+body {
+    background-color: #f4f6f9;
+}
+
+.student-container {
+    width: 90%;
+    margin: 40px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.student-title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 25px;
+    color: #212529;
+}
+
+.add-btn {
+    display: inline-block;
+    margin-bottom: 20px;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.student-table {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.student-table th {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.student-table td {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.student-table tbody tr:hover {
+    background-color: #f1f3f5;
+    transition: 0.2s;
+}
+
+.delete-btn {
+    padding: 5px 12px;
+    border-radius: 8px;
+}

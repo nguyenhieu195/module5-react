@@ -1,0 +1,90 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Hiếu",
+      "gender": true,
+      "class": {
+        "id": 1,
+        "name": "m1"
+      },
+      "dob": "2002-10-10",
+      "email": "hieu.nguyen01@gmail.com",
+      "phone": "0912345678"
+    },
+    {
+      "id": 2,
+      "name": "Hà",
+      "gender": false,
+      "class": {
+        "id": 2,
+        "name": "m2"
+      },
+      "dob": "2003-05-15",
+      "email": "ha.tran02@gmail.com",
+      "phone": "0987654321"
+    },
+    {
+      "id": 3,
+      "name": "Minh",
+      "gender": true,
+      "class": {
+        "id": 1,
+        "name": "m1"
+      },
+      "dob": "2001-12-20",
+      "email": "minh.le03@gmail.com",
+      "phone": "0978123456"
+    },
+    {
+      "id": 4,
+      "name": "Lan",
+      "gender": false,
+      "class": {
+        "id": 3,
+        "name": "m3"
+      },
+      "dob": "2002-08-11",
+      "email": "lan.pham04@gmail.com",
+      "phone": "0934567890"
+    },
+    {
+      "id": 5,
+      "name": "Tuấn",
+      "gender": true,
+      "class": {
+        "id": 2,
+        "name": "m2"
+      },
+      "dob": "2004-01-09",
+      "email": "tuan.vo05@gmail.com",
+      "phone": "0966778899"
+    },
+    {
+      "id": 100,
+      "name": "Hieu Nguyen",
+      "gender": false,
+      "class": {
+        "id": 3,
+        "name": "m3"
+      },
+      "dob": "2026-04-30",
+      "email": "nguyenhieu1952005@gmail.com",
+      "phone": "0384749193"
+    }
+  ],
+  "classes": [
+    {
+      "id": 1,
+      "name": "m1"
+    },
+    {
+      "id": 2,
+      "name": "m2"
+    },
+    {
+      "id": 3,
+      "name": "m3"
+    }
+  ]
+}
